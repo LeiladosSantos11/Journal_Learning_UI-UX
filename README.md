@@ -5,6 +5,7 @@ UX design is a human-centred design approach that is entirely built around the j
 
 User interface (UI) design takes place almost entirely within the digital domain. It deals specifically with the visual aspect of any screen-based action a user might be taking. 
 
+
 Ben Schneiderman of the University of Maryland is a leading figure in the field and has defined eight golden rules for UI design. These are:
 
 - Strive for consistency:
