@@ -24,3 +24,7 @@ The user should be able to undo any action that they take.
 Users should be able to rely on the interface to respond to their commands in a predictable way, without any surprises or variations in behaviour.
 - Reduce short term memory load:
 Users should not need to remember information as they traverse displays.
+
+More Inf.:
+https://www.nngroup.com/articles/definition-user-experience/
+https://www.cs.umd.edu/users/ben/goldenrules.html
